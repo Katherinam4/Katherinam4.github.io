@@ -379,3 +379,8 @@ nav ul li a:hover{
     color: #79a6d2;
 
 }
+
+@viewport{
+    zoom: 1.0;
+    width: extend-to-zoom;
+}
