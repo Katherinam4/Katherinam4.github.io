@@ -365,7 +365,7 @@ nav ul li a:hover{
     text-align: center;
 }
 
-.cont-item a{
+.cont-item h2{
     font-size: 20px;
     font-weight: bold;
     color: #f1f1f1;
@@ -373,9 +373,9 @@ nav ul li a:hover{
     margin: 18px 0;
 
 }
-.cont-item p{
+.cont-item a{
     font-size: 20px;
     font-weight: bold;
-    color: #111;
+    color: #79a6d2;
 
 }
