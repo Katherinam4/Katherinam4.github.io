@@ -365,7 +365,7 @@ nav ul li a:hover{
     text-align: center;
 }
 
-.cont-item h2{
+.cont-item a{
     font-size: 20px;
     font-weight: bold;
     color: #f1f1f1;
